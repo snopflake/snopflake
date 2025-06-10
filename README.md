@@ -43,18 +43,7 @@
 - [`my_basic_notes`](https://github.com/snopflake/my_basic_notes) – Notes app built with Flutter + BLoC + Firebase  
 - [`KinkyMaylayana/TuneVerse`](https://github.com/KinkyMaylayana/TuneVerse) – Music platform with Vue + Laravel  
 - [`MBTI-MVC`](https://github.com/snopflake/MBTI-MVC) – MVC-style web app using PHP  
-- [`PemdasWrap`](https://github.com/snopflake/PemdasWrap) – Simple Java GUI affirmation app
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snopflake&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snopflake&theme=tokyonight" width="48%"/>
-</p>
-
----
 
 ## 🛸 Let's Connect
 📬 say hi on [GitHub](https://github.com/snopflake) – I'm always open to feedback or collaboration!
