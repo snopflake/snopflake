@@ -12,7 +12,7 @@
 🎓 I’m passionate about front-end development, UI/UX, and blending creativity with code.  
 💻 Currently exploring **Flutter**, **Vue.js**, and a bit of **Laravel** & **Java** for fun.  
 🌱 Always learning, always tinkering.
-
+Aduh sebenernya ini belum kuedit lagi si guys, jdi mff yh
 ---
 
 ## 🔧 Tech Stack
