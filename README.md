@@ -28,6 +28,8 @@ Aduh sebenernya ini belum kuedit lagi si guys, jdi mff yh
 ### 📱 Mobile & Cross-Platform
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white)
+
 
 ### ⚙️ Back-End & Others
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
